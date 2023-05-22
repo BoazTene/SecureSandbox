@@ -1,0 +1,2 @@
+class EmptyMessageError(Exception):
+    pass

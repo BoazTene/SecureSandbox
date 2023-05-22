@@ -1,0 +1,12 @@
+{
+    "compilerOptions": {
+        "target": "es5",
+        "module": "commonjs",
+        "jsx": "react",
+        "sourceMap": true,
+        "outDir": "./dist",
+        "esModuleInterop": true
+    },
+    "preload": "./src/preload.js",
+    "include": ["src/**/*"]
+}
